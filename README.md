@@ -29,6 +29,8 @@ const WALLET_ADDRESS = ""
 
 ## Widget
 
+![IMG_4364](https://github.com/user-attachments/assets/ecc16fd6-dccf-4d0b-b1fd-a771cdfccd86)
+
 The widget displays:
 - "Balance" header with logo
 - sjEUR balance in large text
